@@ -4,10 +4,11 @@ title: nerves
 category: home
 ---
 
-<center>
-<h1><a href="http://nerves-project.org">nerves</a></h1>
-<h3>craft bulletproof firmware in the stunningly productive [**elixir**](http://elixir-lang.org/) language</h3>
-</center>
+<div class="container tagline">
+  <img src="/images/logo-dark.png"/>
+  <h1>Nerves</h1>
+  <h3>Craft bulletproof firmware in <a href="http://elixir-lang.org">Elixir</a></h3>
+</div>
 
 <hr/>
 <div class="feature-box-container">

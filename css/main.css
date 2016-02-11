@@ -23,6 +23,16 @@ body {
   width: 50px;
 }
 
+.tagline {
+  background: url(/images/elixir-on-pi.jpg) center right no-repeat;
+}
+
+.tagline img {
+  float: left;
+  height: 108px;
+  padding: 0 15px;
+}
+
 .feature-box-container {
     display: flex;
     align-items: top;
