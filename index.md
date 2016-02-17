@@ -5,7 +5,7 @@ category: home
 ---
 
 <div class="container tagline">
-  <img src="/images/logo-dark.png"/>
+  <img src="/images/nerves_logo_on_pi_zero.jpg"/>
   <h1>Nerves</h1>
   <h3>Craft bulletproof firmware in <a href="http://elixir-lang.org">Elixir</a></h3>
 </div>
