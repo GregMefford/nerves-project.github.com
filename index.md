@@ -4,12 +4,16 @@ title: nerves
 category: home
 ---
 
-<div class="container tagline">
-  <img src="/images/nerves_logo_on_pi_zero.jpg"/>
-  <h1>Nerves</h1>
-  <h3>Craft bulletproof firmware in <a href="http://elixir-lang.org">Elixir</a></h3>
+  <div class="media">
+    <div class="pull-left">
+      <img class="media-object" src="/images/nerves_logo_on_pi_zero.jpg"/>
+    </div>
+    <div class="media-body">
+      <h1 class="media-heading">Nerves<small>Craft bulletproof firmware in <a href="http://elixir-lang.org">Elixir</a></small></h1>
+    </div>
+  </div>
+<div class="page-header">
 </div>
-
 <hr/>
 <div class="feature-box-container">
     <div class="feature-box">
